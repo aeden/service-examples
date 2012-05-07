@@ -10,3 +10,4 @@ Example is available in the following languages:
 
 * clojure
 * ruby
+* python
