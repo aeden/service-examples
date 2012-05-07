@@ -4,7 +4,7 @@ The goal of this project is to provide a variety of examples of building web ser
 
 ## echo
 
-The first example is an echo server that parses incoming JSON from the request body and generates the same JSON for the response. The idea is to provide the basic structure for a simple web service while at the same time demonstrating how to read and write JSON which is a commone requirement for lightweight web services.
+The first example is an echo server that parses incoming JSON from the request body and generates the same JSON for the response. The idea is to provide the basic structure for a simple web service while at the same time demonstrating how to read and write JSON which is a common requirement for lightweight web services.
 
 Example is available in the following languages:
 
